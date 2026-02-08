@@ -33,7 +33,7 @@
 	- [Bắt đầu lập trình Arduino, ESP32 với PlatformIO trên VSCode](https://www.youtube.com/watch?v=20eakkralUs)
 ---
 
-#### [Đăng ký tài khoản Github, nhóm thực hành](https://docs.google.com/spreadsheets/d/1AYRu1G8-8MHzO_bBbn2DuxU_Bzcy306O/edit?usp=sharing&ouid=100313771319244626917&rtpof=true&sd=true)
+#### [Đăng ký tài khoản Github, nhóm thực hành](https://docs.google.com/spreadsheets/d/138kfyiPgdV3Ihvjlae4Jf4mjWFX7SgfW/edit?usp=sharing&ouid=100313771319244626917&rtpof=true&sd=true)
 
 ---
 
@@ -57,6 +57,17 @@
 + [Cài đặt thư viện cho PlatformIO](https://khuenguyencreator.com/huong-dan-cai-dat-platform-io-lap-trinh-esp32/#Cai_dat_thu_vien_cho_Platformio)
 -------------------------------
 
+## [***1. Dự án - LED BLINK***](https://github.com/vvdung-husc/2025-2026.2.TIN4024.001/blob/main/Project_LED_Blink.md)
+
+## [***2. Dự án - TRAFFIC LIGHT***](https://github.com/vvdung-husc/2025-2026.2.TIN4024.001/blob/main/Project_Traffic_Light.md)
+
+## [***3. Dự án - DHT_OLED (Theo nhóm, hạn cuối 09/02/2026)***](https://github.com/vvdung-husc/2025-2026.2.TIN4024.001/blob/main/Team_DHT_OLED.md)
+
+-------------------------------
+
+![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/IOT/esp32-devkitC-v4-pinout.png)
+
+-------------------------------
 ![](https://raw.githubusercontent.com/vvdung/storage/refs/heads/main/IOT/diagram_one.png)
 
 -------------------------------
